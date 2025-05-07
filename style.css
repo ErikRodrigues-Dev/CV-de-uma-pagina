@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section{
+    margin: 30px;  
+}
+
+h5 {
+    color: blue;
+}
+
+h6 {
+    color:green
+}
+
+
+.container{
+    border: 1px solid black;
+}
